@@ -5,7 +5,7 @@
 	<key>CFBundleName</key>
 	<string>MediaSample</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.media.sample.mediasample</string>
+	<string>soze.test</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
