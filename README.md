@@ -6,3 +6,4 @@
 * Playback status (Playing, Buffering, Loading, Paused, Progress)
 * Events for media handling to hook into
 
+forked from Baseflow/XamarinMediaManager
